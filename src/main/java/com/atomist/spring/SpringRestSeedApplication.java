@@ -9,5 +9,5 @@ public class SpringRestSeedApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestSeedApplication.class, args);
 	}
-
+ 
 }
